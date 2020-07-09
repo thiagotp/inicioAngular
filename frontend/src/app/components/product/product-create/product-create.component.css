@@ -1,0 +1,16 @@
+button{
+    margin-right: 0.6rem;
+    border: 0.5px solid black;
+}
+
+button:hover{
+    background-color:black;
+}
+
+.matform{
+    margin: 1rem;
+}
+
+form{
+    display: flex;
+}

@@ -14,6 +14,11 @@
       "id": 3,
       "name": "Xiaomi",
       "price": 5000.94
+    },
+    {
+      "name": "Notebook Dell",
+      "price": "3500.13",
+      "id": 4
     }
   ]
 }
