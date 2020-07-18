@@ -1,0 +1,11 @@
+# Projeto CRUD com Angular 9!!!
+
+Primeiro projeto com o Angular onde conheci o framework
+
+Aqui aprendi os conceitos de Router, Diretivas, Componentes
+
+Tive contato com o TypeScript para fazer as modificações de comportamento da interface
+
+Tive contato com o json server
+
+Realizei esse CRUD com o auxílio de um curso online da COD3R onde criei junto com o professor uma interface para elencar produtos e seus valores. Nela eu consigo criar o produto dizendo seu valor, editar o mesmo, listar os produtos criados e excluir o produto caso necessário. Tudo utilizando o JSON Server, Angular 9 e TypeScript.
